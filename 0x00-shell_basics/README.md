@@ -1,1 +1,1 @@
-Readme file to show on how most commands are used in shell
+script that prints the absolute path name of the current directory
