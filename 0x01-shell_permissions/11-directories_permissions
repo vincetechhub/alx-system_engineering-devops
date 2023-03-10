@@ -1,1 +1,2 @@
-#!/bin/bash
+#!/nin/bash
+chmod -R ugo+X .
